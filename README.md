@@ -50,3 +50,6 @@ Always excited to collaborate on AI/ML, full-stack, and data-driven projects!
 ![](https://github-readme-stats.shion.dev/api?username=2006-Aman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=2006-Aman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=2006-Aman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/2006-Aman/2006-Aman/output/github-contribution-grid-snake.svg)
